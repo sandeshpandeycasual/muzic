@@ -1,12 +1,12 @@
 {
   "name": "disspacex",
   "version": "5.0.1",
-  "description": "✈ Join Discord: https://discord.gg/SNG3dh3MbR",
+  "description": "✈ Join Discord",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Adivise",
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "@discordjs/opus": "^0.8.0",
